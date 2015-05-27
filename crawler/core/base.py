@@ -65,6 +65,8 @@ def parse_soup(content):
     except HTTPError, e:
         logger.error("%d: %s" % (e.code, e.msg))
         return
+def added_def():
+    pass
 
 def get_data(url, proxies=None):
     data = requests.get(url).read()
