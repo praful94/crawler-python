@@ -111,3 +111,11 @@ def get_response(url, proxies=None):
 def get_soup(url, proxies=None):
     html = get_response(url, proxies)
     return parse_soup(html)
+
+def issue():
+    '''
+    qqqqqqqqqqqqqqqq
+    wwwwwwwwwwwwwwww
+    eeeeeeeeeeeeeeee
+    dddddddddddddddd
+    '''

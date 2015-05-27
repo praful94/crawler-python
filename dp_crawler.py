@@ -76,3 +76,6 @@ if __name__ == "__main__":
 
 def something():
     print "some"
+
+def issue_def():
+    print "issue output"
