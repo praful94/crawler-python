@@ -76,3 +76,9 @@ if __name__ == "__main__":
 
 def something():
     print "some"
+
+
+def hotfix():
+    '''
+    This is a hotfix change.
+    '''
