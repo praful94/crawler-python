@@ -116,3 +116,7 @@ def hotfix_1():
     '''
     This is also a hotfix change.
     '''
+
+    '''
+    This is master change.
+    '''

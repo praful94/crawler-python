@@ -82,3 +82,7 @@ def hotfix():
     '''
     This is a hotfix change.
     '''
+
+    '''
+    This is master change.
+    '''
