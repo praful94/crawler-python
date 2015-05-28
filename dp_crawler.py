@@ -73,7 +73,6 @@ if __name__ == "__main__":
     main()
 
 
-
 def something():
     print "some"
 
@@ -91,3 +90,7 @@ def issue_def():
     '''
     Comment Added
     '''
+
+def other():
+    pass
+
