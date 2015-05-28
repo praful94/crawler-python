@@ -72,10 +72,6 @@ def main():
 if __name__ == "__main__":
     main()
 
-
-def something():
-    print "some"
-
 def hotfix():
     '''
     This is a hotfix change.
@@ -94,3 +90,6 @@ def issue_def():
 def other():
     pass
 
+def other_something():
+    pass
+    #this is a comment
