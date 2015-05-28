@@ -120,3 +120,15 @@ def hotfix_1():
     '''
     This is master change.
     '''
+
+def issue():
+    '''
+    qqqqqqqqqqqqqqqq
+    wwwwwwwwwwwwwwww
+    eeeeeeeeeeeeeeee
+    dddddddddddddddd
+    '''
+
+    '''
+    Comment Added
+    '''

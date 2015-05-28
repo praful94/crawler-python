@@ -77,7 +77,6 @@ if __name__ == "__main__":
 def something():
     print "some"
 
-
 def hotfix():
     '''
     This is a hotfix change.
@@ -85,4 +84,10 @@ def hotfix():
 
     '''
     This is master change.
+    '''
+
+def issue_def():
+    print "issue output"
+    '''
+    Comment Added
     '''
